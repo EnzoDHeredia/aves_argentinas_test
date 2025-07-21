@@ -73,11 +73,9 @@ env/
 *.sqlite3
 *.db
 *.pkl
-*.pth
 *.h5
 *.ckpt
 *.pt
-*.pth
 
 # Images and data
 *.jpg
